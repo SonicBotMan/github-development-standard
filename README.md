@@ -11,6 +11,8 @@
 
 </div>
 
+已发布到ClawHub，支持一键安装：https://clawhub.ai/SonicBotMan/github-development-standard
+
 ---
 
 ## 📋 核心理念
