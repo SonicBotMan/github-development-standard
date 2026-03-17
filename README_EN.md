@@ -122,6 +122,11 @@ cd github-development-standard
 - [docs/checklist.md](./docs/checklist.md) - 15-item acceptance checklist
 - [docs/best-practices.md](./docs/best-practices.md) - Best practices
 
+### 🎬 Real-world Examples
+
+- [LobsterPress Bug Fix](./examples/lobster-press-bugfix.md) - Complete bug fix workflow
+- [OpenClaw Portable Issue #53](./examples/openclaw-portable-issue53.md) - **Multi-file documentation fix (NEW)**
+
 ---
 
 ## 🎯 Use Cases

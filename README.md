@@ -190,6 +190,7 @@ D. 发布质量
 ### 🎬 实战案例
 
 - ✅ [LobsterPress Bug 修复](./examples/lobster-press-bugfix.md) - 完整的修复流程
+- ✅ [OpenClaw Portable 文档修复](./examples/openclaw-portable-issue53.md) - **多文件修复 + 文档清理（新增）**
 
 ---
 
@@ -234,6 +235,24 @@ D. 发布质量（4项）
 
 ⚠️ 只要有 1 项答不上来，就不要发布。
 ```
+
+### 4. 工具使用
+
+**文档检查工具：**
+
+```bash
+# 检查常见文档问题
+./scripts/check-docs.sh
+
+# 快速修复常见问题
+./scripts/fix-common-docs.sh
+```
+
+**检查项：**
+- ✅ 合并冲突标记
+- ✅ 冗余文档文件
+- ✅ 版本号一致性
+- ✅ 无法证伪的声明
 
 ---
 
