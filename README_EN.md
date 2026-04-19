@@ -84,6 +84,7 @@ python3 -m pytest tests/
 | Component | Description | Value |
 |-----------|-------------|-------|
 | **9-Step Workflow** | From issue to review, zero skipping | Systematic approach |
+| **Karpathy 4 Principles** | Think First / Simplicity / Surgical / Goal-Driven (v2.1) | Mindset layer |
 | **4-Layer Validation** | Syntax → Import → Behavior → Regression | 100% confidence |
 | **15-Item Checklist** | Must pass all 15 before shipping | Quality gate |
 | **8 Coding Disciplines** | Never break these rules | Prevent mistakes |

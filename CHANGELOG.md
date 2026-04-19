@@ -9,8 +9,42 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+---
+
+## [2.1.0] - 2026-04-19
+
 ### Added
-- 未来功能规划
+
+#### 🧠 Karpathy 四大编码原则
+
+源自 [Andrej Karpathy 的 LLM 编程观察](https://x.com/karpathy/status/2015883857489522876)，整合到 Step 5 编码环节：
+
+- ✅ **原则 1：先思考，再动手（Think Before Coding）**
+  - 不确定时先说假设，别闷头猜
+  - 有多种理解时列出所有方案
+  - 存在更简单方案时主动说出来
+  - 搞不清楚时停下来问
+
+- ✅ **原则 2：简单至上（Simplicity First）**
+  - 不加没被要求的功能
+  - 不为不可能的场景写错误处理
+  - 200 行能搞定别写更多
+
+- ✅ **原则 3：手术式修改（Surgical Changes）**
+  - 不顺手改相邻代码
+  - 没坏的东西不重构
+  - 每一行改动都能追溯到需求
+
+- ✅ **原则 4：目标驱动执行（Goal-Driven Execution）**
+  - 模糊任务转化为可验证目标
+  - 多步任务列计划 + 检查点
+  - 循环验证直到通过
+
+### Changed
+
+- 更新 Skill.md Step 5，在 8 条编码纪律前增加 Karpathy 四大原则
+- 更新 README.md 工具包内容，增加 Karpathy 四大原则
+- 版本号更新至 v2.1
 
 ---
 
@@ -159,6 +193,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 2.1.0 | 2026-04-19 | 整合 Karpathy 四大编码原则 |
+| 1.1.0 | 2026-03-18 | 新增实战案例、工具指南 |
 | 1.0.0 | 2026-03-13 | 初始版本发布 |
 
 ---

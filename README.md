@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/SonicBotMan/github-development-standard.svg)](https://github.com/SonicBotMan/github-development-standard)
-[![Skill Version](https://img.shields.io/badge/Skill-v2.0-blue.svg)](./Skill.md)
+[![Skill Version](https://img.shields.io/badge/Skill-v2.1-blue.svg)](./Skill.md)
 
 **中文** | [English](README_EN.md)
 
@@ -75,6 +75,7 @@ chmod +x .git/hooks/pre-commit
 | 工具 | 说明 |
 |------|------|
 | **9 步开发流程** | 读 issue → 任务卡 → 基线 → 改动点 → 编码 → 验证 → diff → 发布 → 复盘 |
+| **Karpathy 四大原则** | 先思考再动手 / 简单至上 / 手术式修改 / 目标驱动执行（v2.1 新增）|
 | **4 层验证** | 语法(1s) → 导入(1s) → 行为(5-30min) → 回归(5-30min) |
 | **21 项验收清单** | A–D 共 15 项通用工程检查 + E 组 6 项 AI 专项检查（v2.0 新增）|
 | **8 条编码纪律** | 禁止夹带私货、禁止凭记忆重写、禁止边修 bug 边重构… |
