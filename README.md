@@ -151,3 +151,7 @@ bash scripts/install-hook.sh
 > **流程 > 模型能力。相信流程，不相信「修好了」。** 💪
 
 **Made with ❤️ by SonicBotMan Team + Claude Sonnet 4.6**
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/sonicbotman/github-development-standard.svg)](https://skill-history.com/sonicbotman/github-development-standard)
